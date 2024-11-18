@@ -33,6 +33,9 @@ class GoogleSuggestions extends Component {
             className="google-logo"
             alt="google logo"
           />
+          <div className="author-container">
+            <p className="author">Design by AshiQ_03</p>
+          </div>
           <div className="search-input-suggestions-container">
             <div className="search-input-container">
               <img
